@@ -2,16 +2,11 @@
   "rooms": [
     
     {
-      "text": "food shopping",
-      "day": "13 june",
-      "reminder": true,
-      "id": 2
-    },
-    {
-      "text": "eating",
-      "day": "12 th feb",
-      "reminder": true,
-      "id": 3
+      "id" : 1,
+      "name" : "roshini",
+      "link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley",
+      "room" :  "edai"
     }
+    
   ]
 }
